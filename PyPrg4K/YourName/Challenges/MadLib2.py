@@ -1,7 +1,7 @@
 # Modification of YourName.py
 # Prompted for an adjective, noun, and verb
 # Outputs a static madlib with the inputs
-# MadLib2: included option to choose an animal
+# MadLib2: included option to choose an animalgit
 
 adjective = input("Enter an adjective: ")
 noun = input("Enter a noun: ")
