@@ -2,3 +2,4 @@
 *.class
 *.in
 .vscode/
+node_modules
