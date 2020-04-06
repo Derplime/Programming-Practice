@@ -1,0 +1,20 @@
+
+/* hex representation */
+h1 {
+    color: #54206e;
+}
+
+/* word representation */
+h4 {
+    color: royalblue;
+}
+
+/* RGB representation */
+li {
+    color: rgb(143, 32, 32)
+}
+
+/* RGBA representation */
+h2 {
+    color: rgba(19, 80, 19, 0.2);
+}

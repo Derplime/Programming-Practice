@@ -1,0 +1,14 @@
+/* Element selector, selects all of the element type */
+li {
+    border: 2px solid red;
+}
+
+/* Id selector select the ONE element with the matching id*/
+#special {
+    background: rgb(255, 255, 0);
+}
+
+/* Class selector can select off of classes that can be used multiple times */
+.complete {
+    text-decoration: line-through;
+}

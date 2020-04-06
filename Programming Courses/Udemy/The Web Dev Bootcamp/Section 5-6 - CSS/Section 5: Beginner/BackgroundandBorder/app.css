@@ -1,0 +1,36 @@
+
+/* hex representation */
+h1 {
+    color: #54206e;
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+    border: 8px dashed teal;
+}
+
+/* word representation */
+h4 {
+    color: royalblue;
+    background: rgb(143, 100, 100);
+}
+
+/* RGB representation */
+li {
+    color: rgb(143, 32, 32)
+}
+
+/* RGBA representation */
+h2 {
+    color: rgba(19, 80, 19, 0.2);
+}
+
+body {
+    background: pink;
+    /* 
+    background: url(url);
+    background-repeat: no-repeat;
+    background-size: cover;
+    */
+}
+
+/* You can make backgrounds from pictures in urls */
