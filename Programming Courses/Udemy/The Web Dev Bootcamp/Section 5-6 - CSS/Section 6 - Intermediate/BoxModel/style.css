@@ -1,0 +1,29 @@
+p {
+
+/*Content - Width and Height: Blue*/
+/* % adjusts to the parent tag, in this case, body */
+width: 50%;
+/*Border*/
+
+border: 2px solid blue;
+
+/*Padding: between content and border. Green*/
+
+/*padding: 10px; on all sides*/
+padding-left: 40px;
+
+/*Margin: Between different elements. Orange*/
+/*margin: 100px; all sides equal */
+/*margin-top: 500px; one side*/
+/*margin: 20px 40px 500px 100px; top right bottom left*/
+/*margin: 0 auto 0 auto; 0 top, auto right, 0 bottom, auto left*/
+
+/* 0 to top/bottom auto left/right */
+margin: 0 auto; 
+/* 50px top/bottom 20px left/right */
+margin: 50px 20px;
+}
+
+
+
+
