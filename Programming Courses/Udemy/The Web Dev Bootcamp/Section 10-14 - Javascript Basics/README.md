@@ -1,1 +1,1 @@
-I was already familiar with some of the basics of Javascript, so I skipped around through here.
+I was already familiar with some of the basics of Javascript, so I skipped around/omitted some sections here.
