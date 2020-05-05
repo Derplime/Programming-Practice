@@ -1,0 +1,1 @@
+I was already familiar with some of the basics of Javascript, so I skipped around through here.
