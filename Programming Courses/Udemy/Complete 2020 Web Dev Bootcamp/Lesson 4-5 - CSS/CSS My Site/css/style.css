@@ -5,15 +5,21 @@ body {
 }
 
 h1 {
-    margin: 0;
+    color: #3c9d9b;
+    font-size: 5.625rem; /* 16px = 100% = 1em */
+    margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
 
 h2 {
+    color: #3c9d9b;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
 }
 
 h3 {
+    color: #52de97;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -22,7 +28,7 @@ table {
 }
 
 .top-container {
-    background-color: #d1eecc;
+    background-color: #394a6d;
     position: relative;
     padding-top: 100px;
 }
